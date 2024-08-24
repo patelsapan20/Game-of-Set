@@ -57,7 +57,7 @@ Score tracking: The game keeps track of players' scores and declares a winner at
     And Start Playing, Follow the prompts and keep playing until the deck is empty and it will declare the winner and show the points for each player.
 
 
-## mplementation Details
+## Implementation Details
 
     The code uses object-oriented programming principles, with classes for Board, Card, Deck, Player, and setgame.
     The generate_deck method in the Deck class creates a deck of Set cards with various properties.
